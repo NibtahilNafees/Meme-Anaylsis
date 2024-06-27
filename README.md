@@ -10,6 +10,7 @@ The goal of this project is to classify memes based on their sentiment. Given an
 ## Dataset
 
 The dataset includes a collection of memes with both image and text components. The text data contains sentiment labels which are used to train and evaluate the classifiers.
+Here's the link for the dataset "https://drive.google.com/file/d/1J1SknxcjbjuK0I3OksEleQ7nF53cxdWS/view?usp=share_link".
 
 ## Preprocessing
 
